@@ -1,2 +1,0 @@
-# Vladimirskiy.r
-java
